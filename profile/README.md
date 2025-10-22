@@ -1,7 +1,7 @@
 # UAVData 1.5 – автоматизация создания разведдонесений и аэрофотоснимков с БПЛА  
 
 <div align="center">  
-<img src="https://yourlink.github.io/.github/photo_2025-04-17_01-19-28.jpg" alt="UAVData 1.5 Interface" width="600">  
+<img src="https://datasetninja.com/github/dataset-ninja/uavdt/main/visualizations/poster.png" alt="UAVData 1.5 Interface" width="600">  
 </div>  
 
 <div align="center">
